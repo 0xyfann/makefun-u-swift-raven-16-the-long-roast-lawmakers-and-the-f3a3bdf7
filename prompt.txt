@@ -1,0 +1,17 @@
+Write ONE original satirical sentence, at most 320 characters, roasting a
+lawmaker who regulates AI, crypto or the internet but cannot convert a
+file to PDF. The sentence must:
+
+- Set up the lawmaker's authority (writing regulation) and then undercut
+  it with the file they cannot convert — a real turn, not just an insult.
+- Keep its aim on lawmakers and the rules they write (power and
+  competence), not random abuse.
+- Use one specific, unexpected detail (e.g. a filename, a habit) instead
+  of a worn tech-illiteracy cliche.
+- Read clean in one pass, stand alone, and land the punch on the last
+  few words.
+
+Deliverable: a Python program (stdlib only) that writes exactly that
+sentence to $MAKEFUN_OUTPUT_DIR/entry.txt (default /output/entry.txt),
+with an internal check that the text is 1–320 characters and a single
+sentence.
